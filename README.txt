@@ -1,0 +1,4 @@
+A Pen created at CodePen.io. You can find this one at https://codepen.io/JFarrow/pen/gzMQpo.
+
+ Built with JQuery, sounds are also custom.
+Resizing is completely dynamic.
